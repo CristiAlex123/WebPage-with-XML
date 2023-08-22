@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+<root>
+    
+<date><id/><title>batman&#13;
+</title><src>./images/82100f73a5b00d8d185736dea79bee65batman.jpg</src><view>view.php?id=</view><edit>edit.php?id=</edit><delete>delete.php?id=</delete><confirm>return confirm("Are you sure you want to delete this item?")</confirm><back>index.php</back></date><date><id>45</id><title/><src>./images/9570f0461ab76f3485bdd8800f151bddsmall-icon-png-14.jpg</src><view>view.php?id=45</view><edit>edit.php?id=45</edit><delete>delete.php?id=45</delete><confirm>return confirm("Are you sure you want to delete this item?")</confirm><back>index.php</back></date></root>
